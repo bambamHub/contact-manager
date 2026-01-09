@@ -6,10 +6,10 @@ The app allows users to submit contact details and view them in real time withou
 ---
 
 ## 🚀 Live Demo
-- **Frontend:** https://your-frontend-url.vercel.app  
-- **Backend:** https://your-backend-url.onrender.com  
+- **Frontend:** https://contact-manager-bambam.vercel.app/
+- <img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/c7921dc2-ad49-4033-9d76-2be3fe0121d9" />
 
-> (Replace the URLs after deployment)
+
 
 ---
 
